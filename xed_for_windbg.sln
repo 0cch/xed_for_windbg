@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xde_for_windbg", "xde_for_windbg\xde_for_windbg.vcxproj", "{EAD33490-5B5E-4F11-965E-3F755743B662}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xed_for_windbg", "xed_for_windbg\xed_for_windbg.vcxproj", "{EAD33490-5B5E-4F11-965E-3F755743B662}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
