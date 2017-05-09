@@ -146,7 +146,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="ReadMe.txt" />
     <None Include="xed_for_windbg.def" />
   </ItemGroup>
   <ItemGroup>
